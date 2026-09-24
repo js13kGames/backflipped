@@ -1,4 +1,7 @@
 ---
+genres:
+  - arcade
+  - action
 post: https://auroriax.com/js13kgames-back-to-the-basics/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
